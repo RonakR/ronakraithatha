@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'http://ronakraithatha.com',
+  title: 'Ronak\'s Corner of the Internet',
+  subtitle: 'Random ramblings and relatively interesting finds from my day to day.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,16 +23,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ronak Raithatha',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Random ramblings and relatively interesting finds from my day to day.',
     contacts: {
       email: '#',
-      telegram: '#',
       twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      github: '#'
     }
   }
 };
