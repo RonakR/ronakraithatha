@@ -28,8 +28,8 @@ module.exports = {
     bio: 'Random ramblings and relatively interesting finds from my day to day.',
     contacts: {
       email: 'ronaksraithatha@gmail.com',
-      twitter: 'https://twitter.com/baronvonratata',
-      github: 'https://github.com/ronakR'
+      twitter: 'baronvonratata',
+      github: 'ronakR'
     }
   }
 };
