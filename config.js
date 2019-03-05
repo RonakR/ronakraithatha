@@ -27,9 +27,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Random ramblings and relatively interesting finds from my day to day.',
     contacts: {
-      email: '#',
-      twitter: '#',
-      github: '#'
+      email: 'ronaksraithatha@gmail.com',
+      twitter: 'https://twitter.com/baronvonratata',
+      github: 'https://github.com/ronakR'
     }
   }
 };
