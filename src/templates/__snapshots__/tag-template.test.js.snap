@@ -34,7 +34,7 @@ exports[`TagTemplate renders correctly 1`] = `
                 className="feed__item-meta-time"
                 dateTime="September 1, 2016"
               >
-                September 2016
+                September 1st, 2016
               </time>
               <span
                 className="feed__item-meta-divider"
@@ -65,12 +65,6 @@ exports[`TagTemplate renders correctly 1`] = `
             >
               test_0
             </p>
-            <Link
-              className="feed__item-readmore"
-              to="/test_0"
-            >
-              Read
-            </Link>
           </div>
           <div
             className="feed__item"
@@ -82,7 +76,7 @@ exports[`TagTemplate renders correctly 1`] = `
                 className="feed__item-meta-time"
                 dateTime="September 1, 2016"
               >
-                September 2016
+                September 1st, 2016
               </time>
               <span
                 className="feed__item-meta-divider"
@@ -113,12 +107,6 @@ exports[`TagTemplate renders correctly 1`] = `
             >
               test_1
             </p>
-            <Link
-              className="feed__item-readmore"
-              to="/test_1"
-            >
-              Read
-            </Link>
           </div>
         </div>
         <div
