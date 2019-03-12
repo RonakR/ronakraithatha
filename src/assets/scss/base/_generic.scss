@@ -151,6 +151,15 @@ figcaption {
   padding-right: 14px !important;
 }
 
+.gatsby-highlight {
+  max-width: 60rem;
+  display: inline;
+}
+
+pre[class*="language-"] {
+  max-width: 60rem;
+}
+
 @include breakpoint-sm {
   figure.float-left,
   figure.float-right {
