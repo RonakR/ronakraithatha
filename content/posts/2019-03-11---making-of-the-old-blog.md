@@ -1,16 +1,15 @@
 ---
-title: Making of this Blog
-date: '2019-03-06T05:57:00.772Z'
+title: Making of the old Blog (Gatsby v0.7)
+date: '2019-03-12T00:50:53.251Z'
 template: post
 draft: false
-slug: /posts/making-of-this-blog
+slug: /posts/making-of-the-old-blog
 category: 'Frontend'
 tags: 
   - Gatsby
   - Github
-  - Netlify
-  - Google Domains
-description: 'The self-referential post on the inception of this blog, with step-by-step sections from getting started to displaying it on your own domain.'
+  - Github Pages
+description: 'This post is from the old version of my blog, which ran on Gatsby v0.7. There is an updated post named Making of this Blog (Gatsby v2).'
 ---
 
 For a while I've been wanting to create a place where I can post tidbits of information I've learned through my days, both at work and outside. I set up a couple static site generators trying to find one I like working with. I tested with [Jekyll](https://jekyllrb.com/), [Middleman](https://middlemanapp.com/), [Hexo](https://hexo.io/) and finally landed on [Gatsby](https://www.staticgen.com/gatsby) after coming across it on [risingstars2016](https://risingstars2016.js.org/).
