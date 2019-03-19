@@ -10,7 +10,7 @@ tags:
   - Lost Mines of Phandelver
   - D&D
   - D&D Starter Set
-description: "My first exprience as a DM and the first D&D session for a couple of the players. What an adventure we're about to embark on."
+description: 'My first exprience as a DM and the first D&D session for a couple of the players. This is an impromptu session to run get the group ready on what their characters can do in an open world.'
 ---
 
 Recently I've been getting into Dungeons and Dragons a lot more. I have been playing Tabletop RPGs for a couple years now and my urge to play grew larger the more I played. My wife and a couple close friends of mine are all on the nerdy side, enjoy fantasy themes and we all play video games together almost every night. A little before Christmas I decided to become a Dungeon Master and run the Lost Mines of Phandelver for a small group of friends including my wife.
