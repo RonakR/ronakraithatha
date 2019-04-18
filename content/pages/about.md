@@ -1,6 +1,6 @@
 ---
-title: "About me"
-template: "page"
+title: 'About me'
+template: 'page'
 ---
 
 Ronak Raithatha, born and raised in Dar es Salaam, Tanzania and moved to the US in 2010. Originally had the intention of becoming a pharmacist, instead took a turn to computing and have not looked back.
