@@ -180,6 +180,13 @@ module.exports = {
           camelCase: false,
         }
       }
-    }
+    },
+    {
+      resolve: 'gatsby-plugin-scroll-indicator',
+      options: {
+        // Configure your color here
+        color: '#D15',
+      },
+    },
   ]
 };
