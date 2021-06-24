@@ -1,7 +1,7 @@
 {
   "version": "3.0.0",
   "name": "ronakraithatha",
-  "description": "Random ramblings and relatively interesting finds from my day to day.",
+  "description": "Random ramblings and relatively riveting finds from my day to day.",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",

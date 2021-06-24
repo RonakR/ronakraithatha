@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Ronak Raithatha',
     photo: '/photo.jpg',
-    bio: 'Random ramblings and relatively interesting finds from my day to day.',
+    bio: 'Random ramblings and relatively riveting finds from my day to day.',
     contacts: {
       email: 'ronaksraithatha@gmail.com',
       twitter: 'baronvonratata',
