@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://ronakraithatha.com',
   title: 'Ronak\'s Corner of the Internet',
-  subtitle: 'Random ramblings and relatively interesting finds from my day to day.',
+  subtitle: 'Random ramblings and relatively riveting finds from my day to day.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Ronak Raithatha',
     photo: '/photo.jpg',
-    bio: 'Random ramblings and relatively interesting finds from my day to day.',
+    bio: 'Random ramblings and relatively riveting finds from my day to day.',
     contacts: {
       email: 'ronaksraithatha@gmail.com',
       twitter: 'baronvonratata',
