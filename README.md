@@ -11,6 +11,12 @@ $ cd ronakraithatha
 $ yarn
 $ gatsby develop
 ```
+
+## Create a New Post
+```
+node create-post.js
+```
+Follow prompts
 ## Deployment
 
 Create a PR with new, deployable content
